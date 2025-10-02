@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">NuxtCommerce</h1>
+<h1 align="center">NuxtCommercee</h1>
 
 <p align="center">
   Modern, open-source headless storefront for WooCommerce — built with <strong>Nuxt 4</strong> & <strong>GraphQL</strong>.<br/>
